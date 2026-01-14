@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on building scalable full-stack applications using Java, Spring Boot, and the MERN stack.<br>👯  I’m looking to collaborate on open-source projects, backend systems, and full-stack web applications.<br>🤝 I’m looking for help with system design, performance optimization, and production-ready best practices.<br>🌱 I’m currently learning advanced Spring Security, microservices architecture, and cloud deployment.<br>💬 Ask me about Java, Spring Boot, REST APIs, SQL, and full-stack development.<br>⚡Fun fact: I enjoy debugging more than writing new code.😎
+🔭  I’m currently working on building scalable full-stack applications using Java, Spring Boot, and the MERN stack.<br>👯  I’m looking to collaborate on open-source projects, backend systems, and full-stack web applications.<br>🤝 I’m looking for help with system design, performance optimization, and production-ready best practices.<br>🌱 I’m currently learning advanced Spring Security, microservices architecture, and cloud deployment.<br>💬 Ask me about Java, Spring Boot, REST APIs, SQL, and full-stack development.<br>⚡Fun fact: I enjoy debugging more than writing new code.
 
 
 ## 🌐 Socials:
